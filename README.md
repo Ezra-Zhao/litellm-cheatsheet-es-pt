@@ -10,6 +10,9 @@ Proyecto original: https://github.com/BerriAI/litellm · Documentación: https:/
 
 ---
 
+
+Apoyo y más: [GitHub Sponsors](https://github.com/sponsors/Ezra-Zhao) · [Gumroad — plantillas y cuadernos que uso](https://ezraflow28.gumroad.com) · [Ko-fi](https://ko-fi.com/ezra777zhao)
+
 ## 🇪🇸 Español
 
 ### Instalación
